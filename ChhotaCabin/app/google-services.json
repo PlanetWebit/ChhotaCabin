@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882011234133",
+    "project_id": "chota-cabin",
+    "storage_bucket": "chota-cabin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882011234133:android:2e4f8907b6045579f6d9dc",
+        "android_client_info": {
+          "package_name": "planet.com.chhotacabin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882011234133-d2ufk5guu77ai5edi718eah494rgds1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "planet.com.chhotacabin",
+            "certificate_hash": "556d0484e1ec4c5ad4219d571b3959c7a23b30bb"
+          }
+        },
+        {
+          "client_id": "882011234133-ga3ilhp4us59pml4ns5c0ripmm8a16ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6SRErAjvg4_WeYEBPR1VgIjxI482cUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882011234133-ga3ilhp4us59pml4ns5c0ripmm8a16ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

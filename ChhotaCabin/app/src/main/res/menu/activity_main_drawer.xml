@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_Profile"
+            android:icon="@drawable/profile_ico"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_aboutUs"
+            android:icon="@drawable/about"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_bookinghis"
+            android:icon="@drawable/history"
+            android:title="Booking History" />
+        <item
+            android:id="@+id/nav_postPro"
+            android:icon="@drawable/prop"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_level"
+            android:icon="@drawable/level"
+            android:title="Refer Point" />
+        <item
+            android:id="@+id/nav_referEarn"
+            android:icon="@drawable/ic_share_"
+            android:title="Refer &amp; Earn" />
+        <item
+            android:id="@+id/nav_logOut"
+            android:icon="@drawable/logout"
+            android:title="Log Out" />
+        <item
+            android:id="@+id/nav_SignIn"
+            android:icon="@drawable/sign_in"
+            android:title="Sign In" />
+    </group>
+
+
+</menu>
